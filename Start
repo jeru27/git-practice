@@ -1,0 +1,10 @@
+// we assume you are already on Desktop
+$ pwd
+// => /Users/<your-username>/Desktop
+
+$ mkdir git-practice
+$ cd git-practice
+$ touch data.txt
+$ code .
+
+
